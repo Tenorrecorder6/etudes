@@ -1,2 +1,3 @@
 # etudes
-Python studies
+
+Python studies in Marimo
